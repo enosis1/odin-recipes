@@ -9,9 +9,18 @@ Puerto Rican Flag somewhere
 body {
   background-color: #e0cb60;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10px 50px 10px 50px;
+  margin: 10px 150px 10px 150px;
   border: black 2px solid;
   padding: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    padding: 0;
 }
 
 .img-container {
@@ -43,4 +52,6 @@ p {
 .title-nav {
   height: auto;
   list-style-type: none;
+  text-align: center;
+  font-size: large;
 }

@@ -5,9 +5,12 @@ Recipe title centered
 Border going vertical
 Puerto Rican Flag somewhere
 */
-
 body {
   background-color: #e0cb60;
+}
+
+.container {
+  background-color: white;
   font-family: Arial, Helvetica, sans-serif;
   margin: 50px 150px 50px 150px;
   border: black 2px solid;

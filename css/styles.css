@@ -9,7 +9,7 @@ Puerto Rican Flag somewhere
 body {
   background-color: #e0cb60;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10px 150px 10px 150px;
+  margin: 50px 150px 50px 150px;
   border: black 2px solid;
   padding: 10px;
 }
@@ -38,7 +38,7 @@ body {
 
 .title-flag {
   height: auto;
-  width: 25%;
+  width: 20%;
 }
 
 h1 {

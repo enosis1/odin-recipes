@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+.title-nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}

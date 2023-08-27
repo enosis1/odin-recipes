@@ -1,0 +1,46 @@
+/* 
+Background Color: Light Yellow
+Image centered
+Recipe title centered
+Border going vertical
+Puerto Rican Flag somewhere
+*/
+
+body {
+  background-color: #e0cb60;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 50px 10px 50px;
+  border: black 2px solid;
+  padding: 10px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.food-image {
+  height: auto;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title-flag {
+  height: auto;
+  width: 25%;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.title-nav {
+  height: auto;
+  list-style-type: none;
+}
